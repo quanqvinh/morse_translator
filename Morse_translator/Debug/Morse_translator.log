@@ -1,16 +1,15 @@
 ﻿  main.cpp
-D:\Document\~project\Morse_translator\Morse_translator\string_supporter.cpp(9,20): warning C4018: '<': signed/unsigned mismatch
-D:\Document\~project\Morse_translator\Morse_translator\string_supporter.cpp(17,8): warning C4018: '<': signed/unsigned mismatch
-D:\Document\~project\Morse_translator\Morse_translator\string_supporter.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
-D:\Document\~project\Morse_translator\Morse_translator\morse_translator.cpp(81,21): warning C4018: '<': signed/unsigned mismatch
-D:\Document\~project\Morse_translator\Morse_translator\morse_translator.cpp(102,22): warning C4018: '<': signed/unsigned mismatch
-D:\Document\~project\Morse_translator\Morse_translator\morse_translator.cpp(111,21): warning C4018: '<': signed/unsigned mismatch
-D:\Document\~project\Morse_translator\Morse_translator\morse_translator.cpp(129,21): warning C4018: '<': signed/unsigned mismatch
-D:\Document\~project\Morse_translator\Morse_translator\morse_translator.cpp(148,21): warning C4018: '<': signed/unsigned mismatch
-D:\Document\~project\Morse_translator\Morse_translator\morse_translator.cpp(188,21): warning C4018: '<': signed/unsigned mismatch
-D:\Document\~project\Morse_translator\Morse_translator\main.cpp(239,20): warning C4018: '<': signed/unsigned mismatch
-D:\Document\~project\Morse_translator\Morse_translator\main.cpp(253,20): warning C4018: '<': signed/unsigned mismatch
-D:\Document\~project\Morse_translator\Morse_translator\main.cpp(273,20): warning C4018: '<': signed/unsigned mismatch
-D:\Document\~project\Morse_translator\Morse_translator\main.cpp(293,20): warning C4018: '<': signed/unsigned mismatch
-D:\Document\~project\Morse_translator\Morse_translator\main.cpp(345,8): warning C4018: '>=': signed/unsigned mismatch
+D:\Document\~project\Morse_translator\Morse_translator\string_supporter.cpp(14,20): warning C4018: '<': signed/unsigned mismatch
+D:\Document\~project\Morse_translator\Morse_translator\string_supporter.cpp(24,8): warning C4018: '<': signed/unsigned mismatch
+D:\Document\~project\Morse_translator\Morse_translator\string_supporter.cpp(34,20): warning C4018: '<': signed/unsigned mismatch
+D:\Document\~project\Morse_translator\Morse_translator\morse_translator.cpp(98,21): warning C4018: '<': signed/unsigned mismatch
+D:\Document\~project\Morse_translator\Morse_translator\morse_translator.cpp(129,22): warning C4018: '<': signed/unsigned mismatch
+D:\Document\~project\Morse_translator\Morse_translator\morse_translator.cpp(141,21): warning C4018: '<': signed/unsigned mismatch
+D:\Document\~project\Morse_translator\Morse_translator\morse_translator.cpp(161,21): warning C4018: '<': signed/unsigned mismatch
+D:\Document\~project\Morse_translator\Morse_translator\morse_translator.cpp(183,21): warning C4018: '<': signed/unsigned mismatch
+D:\Document\~project\Morse_translator\Morse_translator\morse_translator.cpp(227,21): warning C4018: '<': signed/unsigned mismatch
+D:\Document\~project\Morse_translator\Morse_translator\main.cpp(338,20): warning C4018: '<': signed/unsigned mismatch
+D:\Document\~project\Morse_translator\Morse_translator\main.cpp(367,20): warning C4018: '<': signed/unsigned mismatch
+D:\Document\~project\Morse_translator\Morse_translator\main.cpp(469,21): warning C4018: '<': signed/unsigned mismatch
+D:\Document\~project\Morse_translator\Morse_translator\main.cpp(512,8): warning C4018: '>=': signed/unsigned mismatch
   Morse_translator.vcxproj -> D:\Document\~project\Morse_translator\Debug\morse.exe
