@@ -1,0 +1,9 @@
+# Visual Studio files
+.vs/
+*.user
+
+Morse_translator/Debug/
+x64/
+
+# System files
+.DS_Store 
